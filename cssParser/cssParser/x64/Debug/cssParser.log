@@ -1,0 +1,19 @@
+﻿  cssParser.cpp
+C:\Users\zuzia\source\repos\cssParser\cssParser\String.h(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'cssParser.cpp')
+  C:\Users\zuzia\source\repos\cssParser\cssParser\String.h(7,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\zuzia\source\repos\cssParser\cssParser\String.h(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'cssParser.cpp')
+  
+C:\Users\zuzia\source\repos\cssParser\cssParser\String.h(155,22): warning C4551: function call missing argument list
+  (compiling source file 'cssParser.cpp')
+  
+C:\Users\zuzia\source\repos\cssParser\cssParser\String.h(192,22): warning C4551: function call missing argument list
+  (compiling source file 'cssParser.cpp')
+  
+C:\Users\zuzia\source\repos\cssParser\cssParser\Checker.h(68,48): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  (compiling source file 'cssParser.cpp')
+  
+  cssParser.vcxproj -> C:\Users\zuzia\source\repos\cssParser\x64\Debug\cssParser.exe
